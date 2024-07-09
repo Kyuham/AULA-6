@@ -1,0 +1,21 @@
+.CABEÇALHO {
+    border: 2px solid blue;
+    display: inline-block;
+    text-align: center;
+    width: 1400px;
+}
+
+.ECONOMIA {
+    display: inline-block;
+
+}
+
+.NOTÍCIAS {
+    display: inline-block;
+}
+
+.ESPORTES {
+    width: 200px;
+    display: inline-block;
+    border: 2px solid red;
+}
